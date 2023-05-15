@@ -1,14 +1,15 @@
 ## ⭐ React Projects ⭐
 
-This repository contains all the projects developed in React Javascript as part of a list of assignments on the following tutorials: **React for beginners** from **FreeCodeCamp** and **Developedbyed** on Youtube, as well as individual capstone projects by using the following languages **HTML5, Sass, CSS3, Tailwindcss, JavaScript, NodeJs, React and Redux**.
+This repository contains all the projects developed in React Javascript as part of a list of assignments on the following tutorials: **React for beginners** from **FreeCodeCamp** and **Developedbyed** on Youtube, as well as individual capstone projects by using the following languages **HTML5, Sass, CSS3, Tailwindcss, JavaScript, NodeJs, Django, React and Redux**.
 
 ## 🔗 Live Sites URL:
 
-- 🔎 <a href="https://scrimba-notes.joao-martins.net/">Guess Number</a>
-- 🧨 <a href="https://tenzies.joao-martins.net/">Pig Game</a>
-- 💰 <a href="https://business-card.joao-martins.net/">Bankist Financial Internet App</a>
-- 📍 <a href="https://recipes.joao-martins.net/">Mapty</a>
-- 🍔 <a href="https://ecomm2.joao-martins.net/">Forkify</a>
+- 🔎 <a href="https://scrimba-notes.joao-martins.net/">Markdown Notes App</a>
+- 🧨 <a href="https://tenzies.joao-martins.net/">Tenzies Game</a>
+- 💰 <a href="https://business-card.joao-martins.net/">Business Card Showcase</a>
+- 📍 <a href="https://recipes.joao-martins.net/">Food Recipes Fetching API</a>
+- 🍔 <a href="https://ecomm2.joao-martins.net/">Ecommerce Shopping Card</a>
+- 🍔 <a href="https://dj-notes.joao-martins.net/">React & Django Notes App</a>
 
 ## 🗄️ Github Projects Repositories:
 
@@ -17,6 +18,7 @@ This repository contains all the projects developed in React Javascript as part 
 - 💰 <a href="https://github.com/joao82/business-card">Business Card</a>
 - 🍔 <a href="https://github.com/joao82/recipes">Recipes</a>
 - 📍 <a href="https://github.com/joao82/reduxStore">E-commerce Card</a>
+- 📍 <a href="https://github.com/joao82/django-notes">React & Django Notes App</a>
 
 ## 🖥️ Tech Stack
 
@@ -29,21 +31,24 @@ This repository contains all the projects developed in React Javascript as part 
 [![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://github.com/joao82)&nbsp;
 [![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/joao82)&nbsp;
 [![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/joao82)&nbsp;
+[![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://github.com/joao82)&nbsp;
 
 <br>
 
 ## 📸 Overview
 
 - **Markdown Notes:**
-  ![Screenshot](./notes.gif?raw=true "Markdown Notes App")
+  ![Screenshot](./static/notes.gif?raw=true "Markdown Notes App")
 - **Tenzies Game:**
-  ![Screenshot](./tenzies.gif?raw=true "Tenzies Game")
+  ![Screenshot](./static/tenzies.gif?raw=true "Tenzies Game")
 - **Professional Business Card:**
-  ![Screenshot](./business-card.gif?raw=true "Business Card")
+  ![Screenshot](./static/business-card.gif?raw=true "Business Card")
 - **Food Recipes App:**
-  ![Screenshot](./recipes.gif?raw=true "React Web Recipes App")
+  ![Screenshot](./static/delicious.gif?raw=true "React Web Recipes App")
 - **E-commerce Shopping Card:**
-  ![Screenshot](./ecom.gif?raw=true "e-commerce shopping card")
+  ![Screenshot](./static/ecom.gif?raw=true "e-commerce shopping card")
+- **Notes App (React & Django):**
+  ![Screenshot](./static/dj-notes.gif?raw=true "Django React Notes App")
 
 ## 🚀 My process
 
