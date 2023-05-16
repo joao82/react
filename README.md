@@ -7,8 +7,8 @@ This repository contains all the projects developed in React Javascript as part 
 - 🔎 <a href="https://scrimba-notes.joao-martins.net/">Markdown Notes App</a>
 - 🧨 <a href="https://tenzies.joao-martins.net/">Tenzies Game</a>
 - 💰 <a href="https://business-card.joao-martins.net/">Business Card Showcase</a>
-- 📍 <a href="https://recipes.joao-martins.net/">Food Recipes Fetching API</a>
-- 🍔 <a href="https://ecomm2.joao-martins.net/">Ecommerce Shopping Card</a>
+- 🍔 <a href="https://recipes.joao-martins.net/">Food Recipes Fetching API</a>
+- 📍 <a href="https://ecomm2.joao-martins.net/">Ecommerce Shopping Card</a>
 - 🔥 <a href="https://dj-notes.joao-martins.net/">React & Django Notes App</a>
 
 ## 🗄️ Github Projects Repositories:
@@ -17,7 +17,7 @@ This repository contains all the projects developed in React Javascript as part 
 - 🧨 <a href="https://github.com/joao82/scrimba-tenzies">Scrimba Tenzies Game</a>
 - 💰 <a href="https://github.com/joao82/business-card">Business Card</a>
 - 🍔 <a href="https://github.com/joao82/recipes">Food Recipes Fetching API</a>
-- 📍 <a href="https://github.com/joao82/reduxStore">E-commerce Card</a>
+- 📍 <a href="https://github.com/joao82/shopping-card">E-commerce Card</a>
 - 🔥 <a href="https://github.com/joao82/django-notes">React & Django Notes App</a>
 
 ## 🖥️ Tech Stack
